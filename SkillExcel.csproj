@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EEA82EA5-CFCD-434F-B4FC-48C78031F435}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SkillExcel</RootNamespace>
+    <AssemblyName>SkillExcel</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x86\Release\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Properties\closers_ico.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddCharacter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddCharacter.Designer.cs">
+      <DependentUpon>AddCharacter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddSkill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddSkill.Designer.cs">
+      <DependentUpon>AddSkill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddSynergy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddSynergy.Designer.cs">
+      <DependentUpon>AddSynergy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddTeam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddTeam.Designer.cs">
+      <DependentUpon>AddTeam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NetworkConnector.cs" />
+    <Compile Include="Skill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Skill.Designer.cs">
+      <DependentUpon>Skill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Synergy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Synergy.Designer.cs">
+      <DependentUpon>Synergy.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddCharacter.resx">
+      <DependentUpon>AddCharacter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddSkill.resx">
+      <DependentUpon>AddSkill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddSynergy.resx">
+      <DependentUpon>AddSynergy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddTeam.resx">
+      <DependentUpon>AddTeam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Skill.resx">
+      <DependentUpon>Skill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Synergy.resx">
+      <DependentUpon>Synergy.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Properties\closers_ico.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

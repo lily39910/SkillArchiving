@@ -1,0 +1,17 @@
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\bin\Release\SkillExcel.exe.config
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\bin\Release\SkillExcel.exe
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\bin\Release\SkillExcel.pdb
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\obj\Release\SkillExcel.csproj.AssemblyReference.cache
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\obj\Release\SkillExcel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\obj\Release\SkillExcel.csproj.ResolveComReference.cache
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\obj\Release\SkillExcel.AddCharacter.resources
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\obj\Release\SkillExcel.AddSkill.resources
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\obj\Release\SkillExcel.AddSynergy.resources
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\obj\Release\SkillExcel.AddTeam.resources
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\obj\Release\SkillExcel.Skill.resources
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\obj\Release\SkillExcel.Properties.Resources.resources
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\obj\Release\SkillExcel.Synergy.resources
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\obj\Release\SkillExcel.csproj.GenerateResource.cache
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\obj\Release\SkillExcel.csproj.CoreCompileInputs.cache
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\obj\Release\SkillExcel.exe
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\obj\Release\SkillExcel.pdb

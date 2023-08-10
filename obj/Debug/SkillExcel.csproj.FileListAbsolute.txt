@@ -1,0 +1,12 @@
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel\bin\Debug\SkillExcel.exe.config
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel\bin\Debug\SkillExcel.exe
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel\bin\Debug\SkillExcel.pdb
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel\obj\Debug\SkillExcel.csproj.AssemblyReference.cache
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel\obj\Debug\SkillExcel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel\obj\Debug\SkillExcel.Properties.Resources.resources
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel\obj\Debug\SkillExcel.csproj.GenerateResource.cache
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel\obj\Debug\SkillExcel.csproj.CoreCompileInputs.cache
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel\obj\Debug\SkillExcel.exe
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel\obj\Debug\SkillExcel.pdb
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel\obj\Debug\SkillExcel.Form1.resources
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel\obj\Debug\SkillExcel.csproj.ResolveComReference.cache

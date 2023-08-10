@@ -1,0 +1,17 @@
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\bin\x86\Debug\SkillExcel.exe.config
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\bin\x86\Debug\SkillExcel.exe
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\bin\x86\Debug\SkillExcel.pdb
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\obj\x86\Debug\SkillExcel.csproj.AssemblyReference.cache
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\obj\x86\Debug\SkillExcel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\obj\x86\Debug\SkillExcel.csproj.ResolveComReference.cache
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\obj\x86\Debug\SkillExcel.AddCharacter.resources
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\obj\x86\Debug\SkillExcel.AddSkill.resources
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\obj\x86\Debug\SkillExcel.Skill.resources
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\obj\x86\Debug\SkillExcel.Properties.Resources.resources
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\obj\x86\Debug\SkillExcel.Synergy.resources
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\obj\x86\Debug\SkillExcel.csproj.GenerateResource.cache
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\obj\x86\Debug\SkillExcel.csproj.CoreCompileInputs.cache
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\obj\x86\Debug\SkillExcel.exe
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\obj\x86\Debug\SkillExcel.pdb
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\obj\x86\Debug\SkillExcel.AddTeam.resources
+C:\Users\Lily\Documents\Visual Studio 2022\source\SkillExcel2\obj\x86\Debug\SkillExcel.AddSynergy.resources
